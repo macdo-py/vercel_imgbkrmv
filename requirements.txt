@@ -2,4 +2,4 @@ fastapi
 python-multipart
 pillow
 rembg
-uvicorn
+
